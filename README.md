@@ -79,18 +79,19 @@ inv = BasicCodes.matrix_inversion()
 
 ```
 ai-math/
-├── 01_Linear Algebra/
+│   ├── src/
+│   ├── 01_Linear Algebra/
 │   ├── linear_algebra.py
 │   └── linear_algebra.md
 │   
-├── 02_Differential/
+│   ├── 02_Differential/
 │   ├── differential.py
 │   └── differential.md
-│   
-│    03_Optimizer/
-│    ├── optimizer.py
-│    └── optimizer.md
 │
+│   ├──  03_Optimizer/
+│   ├── optimizer.py
+│   └── optimizer.md
+│   
 ├── README.md
 ├── LICENSE
 └── requirements.txt
